@@ -1,2 +1,2 @@
 # DjkVis
-Graph visualizer for Bellman Ford Algorithm.
+Graph visualizer for Djikstra Algorithm.
